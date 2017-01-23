@@ -4,6 +4,8 @@
 
 # Kik-BotMill - Tools to Mill Kik Bots
 
+[![Join the chat at https://gitter.im/BotMill/kik-botmill](https://badges.gitter.im/BotMill/kik-botmill.svg)](https://gitter.im/BotMill/kik-botmill?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Inspired by our first ever Bot Framework [FB-BotMill](https://github.com/BotMill/fb-botmill)
 
 Kik-BotMill is designed to ease the process of developing, designing and running bots that exist inside Kik Messenger. 
